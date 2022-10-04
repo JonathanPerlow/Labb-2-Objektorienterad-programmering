@@ -1,0 +1,33 @@
+﻿Huvudmeny
+	- Skriver ut en huvudmeny innehållande ett antal val 
+
+	1. Användköksapparat
+		- Use metod som ska finnas i Kitchen - Klassen
+		  * Metoden ska 
+
+	2. Lägg till köksapparat
+		- Add metod som ska finnas i Kitchen - klassen
+
+	3. Starta programmet med färdiga köksapparater 
+		- Färdig lista med typ, märke och fungerar. När programmet startar
+			- Lösningar
+			  * Skapa köksapparater med en metod som körs i kontruktorn.
+			    * Skapa metoden i KitchenItem klassen []
+			  * Hårdkoda in köksapparater in i listan?
+	4. Skriva ut Lista köksapparater
+	   - Print metod som ska finnas i kitchen - Klassen		
+	5. Ta bortköksapparat 
+		- Remove metod som ska finnas i Kitchen klassen.
+
+	6. Avsluta 
+		- Låter användaren ange ett val i huvudmenyn och läser in valet. 
+
+Val
+	Val 1:
+		- Skriver ut en undermeny. 
+		- Låter användaren ange ett val i undermenyn för att välja köksapparat
+		  och läser in valet. 
+		- Skriver ut ett meddelande om att köksapparaten är trasig om den är
+		  trasig. 
+		  Annars ska ett meddelande skrivas ut om att köksapparaten används. 
+		- Går tillbaka till huvudmenyn. 
