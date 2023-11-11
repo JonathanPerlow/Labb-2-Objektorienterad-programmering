@@ -1,0 +1,15 @@
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\bin\Debug\net6.0\Labb 2.exe
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\bin\Debug\net6.0\Labb 2.deps.json
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\bin\Debug\net6.0\Labb 2.runtimeconfig.json
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\bin\Debug\net6.0\Labb 2.dll
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\bin\Debug\net6.0\Labb 2.pdb
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.csproj.AssemblyReference.cache
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.AssemblyInfoInputs.cache
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.AssemblyInfo.cs
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.csproj.CoreCompileInputs.cache
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.dll
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\refint\Labb 2.dll
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.pdb
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\Labb 2.genruntimeconfig.cache
+D:\Skola\IT högskolan\Kurs C#\Labbar\Labb 2\Labb 2\obj\Debug\net6.0\ref\Labb 2.dll
